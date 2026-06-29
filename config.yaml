@@ -1,0 +1,27 @@
+# Configuration for Fair and Constraint-Aware Group Formation
+# See tasks/epic-1-project-setup/S1.3-config-schema.md
+
+seed: 42
+
+# Grouping (set either n_groups or group_size)
+group_size: 6
+n_groups: null
+
+# Soft-constraint weights (used by the cost function, S4.2)
+weights:
+  skill_balance: 1.0
+  diversity: 1.0
+  preference: 0.5
+
+# Optimizer parameters
+local_search:
+  max_iterations: 5000
+  no_improvement_patience: 500
+
+simulated_annealing:
+  initial_temp: 1.0
+  cooling: 0.995
+  max_iterations: 10000
+
+ilp:
+  time_limit_seconds: 30

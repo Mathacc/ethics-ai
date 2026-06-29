@@ -1,0 +1,9 @@
+# Core
+numpy
+pandas
+matplotlib
+ortools
+pyyaml
+
+# Dev / testing
+pytest
