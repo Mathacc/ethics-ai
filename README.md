@@ -1,9 +1,37 @@
 # Fair and Constraint-Aware Group Formation
 
-AI-based decision-support prototype that assigns participants to groups as a
-constraint-based optimization problem, comparing a random baseline against local search,
-simulated annealing, and an ILP solver — with fairness metrics, robustness analysis, and
-simple explainability.
+## What this is
+
+Splitting people into groups — students into project teams, participants into an
+Erasmus+ youth exchange — sounds trivial but rarely is. Groups must satisfy **hard
+rules** (fixed sizes, everyone assigned exactly once) while balancing competing
+**soft goals**: even skill levels, mixed experience, diverse backgrounds, and
+respected preferences. Doing this by hand is slow, opaque, and easy to bias.
+
+This project is an **AI decision-support prototype** that treats group formation as a
+**constrained optimization problem** and asks a sharper question than "can we automate
+it?": *when we do, is the result fair, stable, and explainable?*
+
+## How it works
+
+- **Generates** synthetic participant pools under controllable scenarios (balanced,
+  skewed-skill, minority-underrepresented), so methods can be compared on known ground.
+- **Solves** the assignment with four approaches, head-to-head:
+  - a **random baseline** (respects only the hard rules),
+  - **local search** (swap-based hill climbing),
+  - **simulated annealing** (escapes local optima),
+  - an **ILP solver** (OR-Tools, exact optimization).
+- **Evaluates** each method on **fairness metrics** (skill variance across groups,
+  experience balance, diversity spread, preference-satisfaction rate), averaged over
+  many seeds.
+- **Stress-tests** results for **robustness** — add or remove participants, re-solve,
+  and measure how much the assignment churns.
+- **Explains** individual placements: why participant *X* landed in their group and
+  what each factor contributed.
+
+The aim isn't just a better optimizer — it's a transparent way to see the **trade-offs**
+(e.g. skill balance vs. honoring preferences) that any automated grouping forces, which
+is the ethics question at the heart of the course this was built for.
 
 CLI-driven; results are saved as matplotlib PNG plots. See [`PLAN.md`](PLAN.md) for the
 full plan and [`tasks/`](tasks/) for the per-story backlog.
