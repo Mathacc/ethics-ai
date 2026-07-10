@@ -1,0 +1,1643 @@
+{
+  "per_participant": [
+    {
+      "participant_id": "p000",
+      "group_id": "g8",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 grouped with liked p058; NOT grouped with liked p039",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=PL 17% in group vs 17% overall (balanced); gender=M 50% in group vs 38% overall (over-represented)",
+          "score": 0.11666666666666664
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.21 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.15349999999999997
+        }
+      ]
+    },
+    {
+      "participant_id": "p001",
+      "group_id": "g2",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=FR 17% in group vs 15% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.28 lowers group mean 0.32 (overall 0.34)",
+          "score": 0.040541666666666754
+        }
+      ]
+    },
+    {
+      "participant_id": "p002",
+      "group_id": "g6",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "3/3 satisfied \u2014 grouped with liked p046; grouped with liked p055; kept apart from disliked p013",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=FR 17% in group vs 15% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.06666666666666665
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.30 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.0596666666666667
+        }
+      ]
+    },
+    {
+      "participant_id": "p003",
+      "group_id": "g2",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=UA 17% in group vs 18% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.06666666666666665
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.34 raises group mean 0.32 (overall 0.34)",
+          "score": 0.019208333333333272
+        }
+      ]
+    },
+    {
+      "participant_id": "p004",
+      "group_id": "g3",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "3/3 satisfied \u2014 grouped with liked p048; grouped with liked p010; kept apart from disliked p022",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=ES 17% in group vs 12% overall (balanced); gender=F 17% in group vs 28% overall (under-represented)",
+          "score": 0.16666666666666666
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.84 raises group mean 0.35 (overall 0.34)",
+          "score": 0.49516666666666664
+        }
+      ]
+    },
+    {
+      "participant_id": "p005",
+      "group_id": "g5",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 17% in group vs 20% overall (balanced); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.0833333333333334
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.28 lowers group mean 0.33 (overall 0.34)",
+          "score": 0.054958333333333276
+        }
+      ]
+    },
+    {
+      "participant_id": "p006",
+      "group_id": "g0",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 NOT grouped with liked p033; grouped with liked p020",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=UA 17% in group vs 18% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.06666666666666665
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.36 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.0022499999999999742
+        }
+      ]
+    },
+    {
+      "participant_id": "p007",
+      "group_id": "g8",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 grouped with liked p031; NOT grouped with liked p030",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=FR 17% in group vs 15% overall (balanced); gender=F 17% in group vs 28% overall (under-represented)",
+          "score": 0.13333333333333333
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.15 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.21199999999999997
+        }
+      ]
+    },
+    {
+      "participant_id": "p008",
+      "group_id": "g0",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 NOT grouped with liked p015; grouped with liked p024",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=IT 17% in group vs 18% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.68 raises group mean 0.36 (overall 0.34)",
+          "score": 0.32399999999999995
+        }
+      ]
+    },
+    {
+      "participant_id": "p009",
+      "group_id": "g7",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 NOT grouped with liked p020; grouped with liked p016",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=FR 17% in group vs 15% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.38 raises group mean 0.31 (overall 0.34)",
+          "score": 0.07174999999999998
+        }
+      ]
+    },
+    {
+      "participant_id": "p010",
+      "group_id": "g3",
+      "well_placed": false,
+      "best_alternative_group": "g1",
+      "best_swap_partner": "p033",
+      "best_delta": -2.451111111111126e-05,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/3 satisfied \u2014 NOT grouped with liked p028; NOT grouped with liked p035; kept apart from disliked p044",
+          "score": 0.6666666666666666
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=IT 17% in group vs 18% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.24 lowers group mean 0.35 (overall 0.34)",
+          "score": 0.10308333333333336
+        }
+      ]
+    },
+    {
+      "participant_id": "p011",
+      "group_id": "g4",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 NOT grouped with liked p058; grouped with liked p019",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 17% in group vs 20% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.033333333333333354
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.29 lowers group mean 0.38 (overall 0.34)",
+          "score": 0.09054166666666663
+        }
+      ]
+    },
+    {
+      "participant_id": "p012",
+      "group_id": "g7",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=PL 17% in group vs 17% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.0
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.15 lowers group mean 0.31 (overall 0.34)",
+          "score": 0.156
+        }
+      ]
+    },
+    {
+      "participant_id": "p013",
+      "group_id": "g4",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 grouped with liked p053; NOT grouped with liked p006",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=IT 17% in group vs 18% overall (balanced); gender=M 50% in group vs 38% overall (over-represented)",
+          "score": 0.1333333333333333
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.32 lowers group mean 0.38 (overall 0.34)",
+          "score": 0.05379166666666663
+        }
+      ]
+    },
+    {
+      "participant_id": "p014",
+      "group_id": "g0",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 grouped with liked p020; NOT grouped with liked p054",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=PL 17% in group vs 17% overall (balanced); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.050000000000000044
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.20 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.15699999999999997
+        }
+      ]
+    },
+    {
+      "participant_id": "p015",
+      "group_id": "g8",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/3 satisfied \u2014 NOT grouped with liked p018; NOT grouped with liked p011; kept apart from disliked p054",
+          "score": 0.6666666666666666
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=UA 17% in group vs 18% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.44 raises group mean 0.36 (overall 0.34)",
+          "score": 0.08050000000000002
+        }
+      ]
+    },
+    {
+      "participant_id": "p016",
+      "group_id": "g7",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=ES 17% in group vs 12% overall (balanced); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.10000000000000003
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.31 raises group mean 0.31 (overall 0.34)",
+          "score": 0.0030000000000000027
+        }
+      ]
+    },
+    {
+      "participant_id": "p017",
+      "group_id": "g1",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "2/3 satisfied \u2014 NOT grouped with liked p002; grouped with liked p035; kept apart from disliked p040",
+          "score": 0.3333333333333333
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=PL 17% in group vs 17% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.04999999999999999
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.69 raises group mean 0.34 (overall 0.34)",
+          "score": 0.3540833333333333
+        }
+      ]
+    },
+    {
+      "participant_id": "p018",
+      "group_id": "g5",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=PL 17% in group vs 17% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.0
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.37 raises group mean 0.33 (overall 0.34)",
+          "score": 0.03529166666666672
+        }
+      ]
+    },
+    {
+      "participant_id": "p019",
+      "group_id": "g4",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "0/2 satisfied \u2014 NOT grouped with liked p047; NOT grouped with liked p057",
+          "score": 1.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=UA 33% in group vs 18% overall (over-represented); gender=F 17% in group vs 28% overall (under-represented)",
+          "score": 0.26666666666666666
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.17 lowers group mean 0.38 (overall 0.34)",
+          "score": 0.21279166666666668
+        }
+      ]
+    },
+    {
+      "participant_id": "p020",
+      "group_id": "g0",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/3 satisfied \u2014 NOT grouped with liked p051; NOT grouped with liked p044; kept apart from disliked p052",
+          "score": 0.6666666666666666
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=FR 17% in group vs 15% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.36 raises group mean 0.36 (overall 0.34)",
+          "score": 0.005750000000000033
+        }
+      ]
+    },
+    {
+      "participant_id": "p021",
+      "group_id": "g2",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "2/3 satisfied \u2014 grouped with liked p050; NOT grouped with liked p032; kept apart from disliked p031",
+          "score": 0.3333333333333333
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=IT 33% in group vs 18% overall (over-represented); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.20000000000000004
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.34 raises group mean 0.32 (overall 0.34)",
+          "score": 0.01720833333333327
+        }
+      ]
+    },
+    {
+      "participant_id": "p022",
+      "group_id": "g8",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/3 satisfied \u2014 NOT grouped with liked p011; NOT grouped with liked p014; kept apart from disliked p019",
+          "score": 0.6666666666666666
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=ES 17% in group vs 12% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.04999999999999999
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.34 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.017000000000000015
+        }
+      ]
+    },
+    {
+      "participant_id": "p023",
+      "group_id": "g5",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 NOT grouped with liked p014; grouped with liked p037",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=ES 17% in group vs 12% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.09999999999999998
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.30 lowers group mean 0.33 (overall 0.34)",
+          "score": 0.035708333333333286
+        }
+      ]
+    },
+    {
+      "participant_id": "p024",
+      "group_id": "g0",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 33% in group vs 20% overall (over-represented); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.18333333333333335
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.33 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.02799999999999997
+        }
+      ]
+    },
+    {
+      "participant_id": "p025",
+      "group_id": "g1",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 grouped with liked p035; NOT grouped with liked p016",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=ES 17% in group vs 12% overall (balanced); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.10000000000000003
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.18 lowers group mean 0.34 (overall 0.34)",
+          "score": 0.15641666666666665
+        }
+      ]
+    },
+    {
+      "participant_id": "p026",
+      "group_id": "g5",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=IT 17% in group vs 18% overall (balanced); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.06666666666666671
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.25 lowers group mean 0.33 (overall 0.34)",
+          "score": 0.08170833333333327
+        }
+      ]
+    },
+    {
+      "participant_id": "p027",
+      "group_id": "g5",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=UA 17% in group vs 18% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.06666666666666665
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.64 raises group mean 0.33 (overall 0.34)",
+          "score": 0.3032916666666667
+        }
+      ]
+    },
+    {
+      "participant_id": "p028",
+      "group_id": "g6",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "0/2 satisfied \u2014 NOT grouped with liked p042; NOT grouped with liked p057",
+          "score": 1.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 17% in group vs 20% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.033333333333333354
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.36 raises group mean 0.36 (overall 0.34)",
+          "score": 8.333333333337967e-05
+        }
+      ]
+    },
+    {
+      "participant_id": "p029",
+      "group_id": "g2",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=IT 33% in group vs 18% overall (over-represented); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.20000000000000004
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.40 raises group mean 0.32 (overall 0.34)",
+          "score": 0.0799583333333333
+        }
+      ]
+    },
+    {
+      "participant_id": "p030",
+      "group_id": "g6",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/3 satisfied \u2014 NOT grouped with liked p005; NOT grouped with liked p001; kept apart from disliked p035",
+          "score": 0.6666666666666666
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=IT 17% in group vs 18% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.18 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.1794166666666667
+        }
+      ]
+    },
+    {
+      "participant_id": "p031",
+      "group_id": "g8",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 17% in group vs 20% overall (balanced); gender=M 50% in group vs 38% overall (over-represented)",
+          "score": 0.15
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.24 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.11449999999999999
+        }
+      ]
+    },
+    {
+      "participant_id": "p032",
+      "group_id": "g9",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 17% in group vs 20% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.08333333333333334
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.37 raises group mean 0.32 (overall 0.34)",
+          "score": 0.04854166666666665
+        }
+      ]
+    },
+    {
+      "participant_id": "p033",
+      "group_id": "g1",
+      "well_placed": false,
+      "best_alternative_group": "g3",
+      "best_swap_partner": "p010",
+      "best_delta": -2.451111111111126e-05,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=IT 17% in group vs 18% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.20 lowers group mean 0.34 (overall 0.34)",
+          "score": 0.13191666666666663
+        }
+      ]
+    },
+    {
+      "participant_id": "p034",
+      "group_id": "g0",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 33% in group vs 20% overall (over-represented); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.1833333333333333
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.22 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.14249999999999996
+        }
+      ]
+    },
+    {
+      "participant_id": "p035",
+      "group_id": "g1",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 17% in group vs 20% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.08333333333333334
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.21 lowers group mean 0.34 (overall 0.34)",
+          "score": 0.12566666666666665
+        }
+      ]
+    },
+    {
+      "participant_id": "p036",
+      "group_id": "g9",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=FR 17% in group vs 15% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.58 raises group mean 0.32 (overall 0.34)",
+          "score": 0.2597916666666667
+        }
+      ]
+    },
+    {
+      "participant_id": "p037",
+      "group_id": "g5",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=FR 17% in group vs 15% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.17 lowers group mean 0.33 (overall 0.34)",
+          "score": 0.16620833333333326
+        }
+      ]
+    },
+    {
+      "participant_id": "p038",
+      "group_id": "g1",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=FR 17% in group vs 15% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.34 raises group mean 0.34 (overall 0.34)",
+          "score": 0.001583333333333381
+        }
+      ]
+    },
+    {
+      "participant_id": "p039",
+      "group_id": "g7",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 17% in group vs 20% overall (balanced); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.0833333333333334
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.36 raises group mean 0.31 (overall 0.34)",
+          "score": 0.04624999999999996
+        }
+      ]
+    },
+    {
+      "participant_id": "p040",
+      "group_id": "g9",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 NOT grouped with liked p005; grouped with liked p032",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=IT 17% in group vs 18% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.29 lowers group mean 0.32 (overall 0.34)",
+          "score": 0.034208333333333285
+        }
+      ]
+    },
+    {
+      "participant_id": "p041",
+      "group_id": "g7",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=IT 17% in group vs 18% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.06666666666666665
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.25 lowers group mean 0.31 (overall 0.34)",
+          "score": 0.055999999999999994
+        }
+      ]
+    },
+    {
+      "participant_id": "p042",
+      "group_id": "g2",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "2/3 satisfied \u2014 grouped with liked p001; NOT grouped with liked p012; kept apart from disliked p043",
+          "score": 0.3333333333333333
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 17% in group vs 20% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.033333333333333354
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.24 lowers group mean 0.32 (overall 0.34)",
+          "score": 0.07954166666666673
+        }
+      ]
+    },
+    {
+      "participant_id": "p043",
+      "group_id": "g9",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 NOT grouped with liked p059; grouped with liked p040",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=PL 17% in group vs 17% overall (balanced); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.050000000000000044
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.24 lowers group mean 0.32 (overall 0.34)",
+          "score": 0.07895833333333335
+        }
+      ]
+    },
+    {
+      "participant_id": "p044",
+      "group_id": "g7",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=UA 17% in group vs 18% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.06666666666666665
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.40 raises group mean 0.31 (overall 0.34)",
+          "score": 0.09099999999999997
+        }
+      ]
+    },
+    {
+      "participant_id": "p045",
+      "group_id": "g1",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 grouped with liked p017; NOT grouped with liked p015",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=UA 17% in group vs 18% overall (balanced); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.06666666666666671
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.39 raises group mean 0.34 (overall 0.34)",
+          "score": 0.05833333333333335
+        }
+      ]
+    },
+    {
+      "participant_id": "p046",
+      "group_id": "g6",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=ES 17% in group vs 12% overall (balanced); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.10000000000000003
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.27 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.08666666666666667
+        }
+      ]
+    },
+    {
+      "participant_id": "p047",
+      "group_id": "g9",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "2/3 satisfied \u2014 NOT grouped with liked p035; grouped with liked p057; kept apart from disliked p004",
+          "score": 0.3333333333333333
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=ES 17% in group vs 12% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.09999999999999998
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.31 lowers group mean 0.32 (overall 0.34)",
+          "score": 0.017458333333333298
+        }
+      ]
+    },
+    {
+      "participant_id": "p048",
+      "group_id": "g3",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 grouped with liked p054; NOT grouped with liked p042",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 33% in group vs 20% overall (over-represented); gender=M 50% in group vs 38% overall (over-represented)",
+          "score": 0.24999999999999994
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.25 lowers group mean 0.35 (overall 0.34)",
+          "score": 0.09783333333333338
+        }
+      ]
+    },
+    {
+      "participant_id": "p049",
+      "group_id": "g4",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=PL 17% in group vs 17% overall (balanced); gender=M 50% in group vs 38% overall (over-represented)",
+          "score": 0.11666666666666664
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.59 raises group mean 0.38 (overall 0.34)",
+          "score": 0.2079583333333334
+        }
+      ]
+    },
+    {
+      "participant_id": "p050",
+      "group_id": "g2",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=PL 17% in group vs 17% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.04999999999999999
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.33 raises group mean 0.32 (overall 0.34)",
+          "score": 0.003708333333333258
+        }
+      ]
+    },
+    {
+      "participant_id": "p051",
+      "group_id": "g6",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "2/3 satisfied \u2014 NOT grouped with liked p013; grouped with liked p028; kept apart from disliked p025",
+          "score": 0.3333333333333333
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=UA 17% in group vs 18% overall (balanced); gender=F 33% in group vs 28% overall (balanced)",
+          "score": 0.06666666666666665
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.71 raises group mean 0.36 (overall 0.34)",
+          "score": 0.35308333333333336
+        }
+      ]
+    },
+    {
+      "participant_id": "p052",
+      "group_id": "g3",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "no preferences expressed",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=UA 17% in group vs 18% overall (balanced); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.016666666666666663
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.24 lowers group mean 0.35 (overall 0.34)",
+          "score": 0.10758333333333334
+        }
+      ]
+    },
+    {
+      "participant_id": "p053",
+      "group_id": "g4",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "0/2 satisfied \u2014 NOT grouped with liked p016; NOT grouped with liked p035",
+          "score": 1.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=FR 17% in group vs 15% overall (balanced); gender=M 50% in group vs 38% overall (over-represented)",
+          "score": 0.1333333333333333
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.24 lowers group mean 0.38 (overall 0.34)",
+          "score": 0.14054166666666668
+        }
+      ]
+    },
+    {
+      "participant_id": "p054",
+      "group_id": "g3",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "2/3 satisfied \u2014 NOT grouped with liked p023; grouped with liked p052; kept apart from disliked p044",
+          "score": 0.3333333333333333
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=PL 17% in group vs 17% overall (balanced); gender=M 50% in group vs 38% overall (over-represented)",
+          "score": 0.11666666666666664
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.34 lowers group mean 0.35 (overall 0.34)",
+          "score": 0.010333333333333361
+        }
+      ]
+    },
+    {
+      "participant_id": "p055",
+      "group_id": "g6",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "0/2 satisfied \u2014 NOT grouped with liked p016; NOT grouped with liked p020",
+          "score": 1.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=PL 17% in group vs 17% overall (balanced); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.050000000000000044
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.33 lowers group mean 0.36 (overall 0.34)",
+          "score": 0.0274166666666667
+        }
+      ]
+    },
+    {
+      "participant_id": "p056",
+      "group_id": "g3",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "2/3 satisfied \u2014 NOT grouped with liked p035; grouped with liked p054; kept apart from disliked p001",
+          "score": 0.3333333333333333
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=DE 33% in group vs 20% overall (over-represented); gender=M 50% in group vs 38% overall (over-represented)",
+          "score": 0.24999999999999994
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.17 lowers group mean 0.35 (overall 0.34)",
+          "score": 0.17633333333333334
+        }
+      ]
+    },
+    {
+      "participant_id": "p057",
+      "group_id": "g9",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "1/2 satisfied \u2014 NOT grouped with liked p004; grouped with liked p043",
+          "score": 0.5
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=UA 17% in group vs 18% overall (balanced); gender=M 33% in group vs 38% overall (under-represented)",
+          "score": 0.06666666666666671
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.14 lowers group mean 0.32 (overall 0.34)",
+          "score": 0.17770833333333336
+        }
+      ]
+    },
+    {
+      "participant_id": "p058",
+      "group_id": "g8",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "2/2 satisfied \u2014 grouped with liked p007; grouped with liked p015",
+          "score": 0.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=IT 17% in group vs 18% overall (balanced); gender=M 50% in group vs 38% overall (over-represented)",
+          "score": 0.1333333333333333
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.78 raises group mean 0.36 (overall 0.34)",
+          "score": 0.4165
+        }
+      ]
+    },
+    {
+      "participant_id": "p059",
+      "group_id": "g4",
+      "well_placed": true,
+      "best_alternative_group": null,
+      "best_swap_partner": null,
+      "best_delta": 0.0,
+      "factors": [
+        {
+          "name": "preferences",
+          "detail": "0/2 satisfied \u2014 NOT grouped with liked p034; NOT grouped with liked p048",
+          "score": 1.0
+        },
+        {
+          "name": "diversity",
+          "detail": "nationality=UA 33% in group vs 18% overall (over-represented); gender=X 33% in group vs 33% overall (balanced)",
+          "score": 0.15
+        },
+        {
+          "name": "skill",
+          "detail": "mean skill 0.67 raises group mean 0.38 (overall 0.34)",
+          "score": 0.2897083333333333
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "group_id": "g0",
+      "size": 6,
+      "mean_skill": 0.358,
+      "experience_mean": 1.33,
+      "nationality_mix": {
+        "DE": 2,
+        "FR": 1,
+        "IT": 1,
+        "PL": 1,
+        "UA": 1
+      }
+    },
+    {
+      "group_id": "g1",
+      "size": 6,
+      "mean_skill": 0.336,
+      "experience_mean": 1.17,
+      "nationality_mix": {
+        "DE": 1,
+        "ES": 1,
+        "FR": 1,
+        "IT": 1,
+        "PL": 1,
+        "UA": 1
+      }
+    },
+    {
+      "group_id": "g2",
+      "size": 6,
+      "mean_skill": 0.324,
+      "experience_mean": 1.5,
+      "nationality_mix": {
+        "DE": 1,
+        "FR": 1,
+        "IT": 2,
+        "PL": 1,
+        "UA": 1
+      }
+    },
+    {
+      "group_id": "g3",
+      "size": 6,
+      "mean_skill": 0.346,
+      "experience_mean": 2.0,
+      "nationality_mix": {
+        "DE": 2,
+        "ES": 1,
+        "IT": 1,
+        "PL": 1,
+        "UA": 1
+      }
+    },
+    {
+      "group_id": "g4",
+      "size": 6,
+      "mean_skill": 0.378,
+      "experience_mean": 1.33,
+      "nationality_mix": {
+        "DE": 1,
+        "FR": 1,
+        "IT": 1,
+        "PL": 1,
+        "UA": 2
+      }
+    },
+    {
+      "group_id": "g5",
+      "size": 6,
+      "mean_skill": 0.332,
+      "experience_mean": 1.33,
+      "nationality_mix": {
+        "DE": 1,
+        "ES": 1,
+        "FR": 1,
+        "IT": 1,
+        "PL": 1,
+        "UA": 1
+      }
+    },
+    {
+      "group_id": "g6",
+      "size": 6,
+      "mean_skill": 0.357,
+      "experience_mean": 0.83,
+      "nationality_mix": {
+        "DE": 1,
+        "ES": 1,
+        "FR": 1,
+        "IT": 1,
+        "PL": 1,
+        "UA": 1
+      }
+    },
+    {
+      "group_id": "g7",
+      "size": 6,
+      "mean_skill": 0.31,
+      "experience_mean": 1.5,
+      "nationality_mix": {
+        "DE": 1,
+        "ES": 1,
+        "FR": 1,
+        "IT": 1,
+        "PL": 1,
+        "UA": 1
+      }
+    },
+    {
+      "group_id": "g8",
+      "size": 6,
+      "mean_skill": 0.359,
+      "experience_mean": 2.17,
+      "nationality_mix": {
+        "DE": 1,
+        "ES": 1,
+        "FR": 1,
+        "IT": 1,
+        "PL": 1,
+        "UA": 1
+      }
+    },
+    {
+      "group_id": "g9",
+      "size": 6,
+      "mean_skill": 0.322,
+      "experience_mean": 1.17,
+      "nationality_mix": {
+        "DE": 1,
+        "ES": 1,
+        "FR": 1,
+        "IT": 1,
+        "PL": 1,
+        "UA": 1
+      }
+    }
+  ],
+  "well_placed_rate": 0.9666666666666667
+}
